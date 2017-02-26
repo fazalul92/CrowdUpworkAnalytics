@@ -18,6 +18,4 @@
 	    dbProc.disConnect();
         response.sendRedirect("../"+StateInfo[1]);
 	}
-   	dbProc.disConnect();
-    response.sendRedirect("../task.jsp");
 %>
